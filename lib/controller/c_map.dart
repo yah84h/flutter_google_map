@@ -5,7 +5,7 @@ class ControllerGoogleMap {
       Completer<GoogleMapController>();
 
   static const CameraPosition initialPosition = CameraPosition(
-    target: LatLng(21.682755989045567, 39.167291247434946),
+    target: LatLng(21.543077593428443, 39.21178777664023),
     zoom: 14.5,
   );
 
